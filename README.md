@@ -1,6 +1,13 @@
 ## Oiii! Eu sou a Milena Arendt!
 
 
+<br/>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arendttt&layout=compact&theme=dracula) 
+
+#### Main skills
+
 <div style="display: inline_block">
   <img align="center" alt="Mi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -9,10 +16,3 @@
   <img align="center" alt="Mi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-<br/>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arendttt&layout=compact&theme=dracula) 
-
-
